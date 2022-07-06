@@ -64,6 +64,10 @@ Unir dos Ramas lo conocemos como Merge.
 
 Estándar de equipos de desarrollo..
 
+
+y
+
+
 - Rama ***Master*** o ***Main***: va a producción.
 - Rama ***Development***: se alojan las nuevas features, características y experimentos
      (para unirse al Máster cuando estén definitivamente listas).
